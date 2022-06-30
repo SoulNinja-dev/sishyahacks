@@ -6,11 +6,9 @@
 			Tracks
 		</p>
 		<div class="flex">
-			<div class="mb-2 flex space-x-2 mx-28 border-4 border-black rounded-[12px] m-10">
-				<p class="text-3xl py-10">
-					Lorem ipsum dolor sit, amet consectetur<br /> adipisicing elit. Ad ipsam, dolorum omnis harum
-					aliquam suscipit voluptatibus optio molestias commodi ratione? Qui voluptate consequatur vero,
-					nihil ad non. Eveniet, voluptatem. Iste.
+			<div class="mb-2 flex space-x-2 mx-28 border-4 border-black rounded-[12px] m-10 ml">
+				<p class="text-5xl py-10 mr-96 ml-96">
+					Build a retro game on any platform
 				</p>
 			</div>
 		</div>
